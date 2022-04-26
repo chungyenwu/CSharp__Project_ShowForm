@@ -1,0 +1,7 @@
+D:\FreshmanProject\Practice5\Practice5\obj\Debug\ResolveAssemblyReference.cache
+D:\FreshmanProject\Practice5\Practice5\obj\Debug\Practice5.Properties.Resources.resources
+D:\FreshmanProject\Practice5\Practice5\obj\Debug\Practice5.csproj.GenerateResource.Cache
+D:\FreshmanProject\Practice5\Practice5\bin\Debug\Practice5.exe
+D:\FreshmanProject\Practice5\Practice5\bin\Debug\Practice5.pdb
+D:\FreshmanProject\Practice5\Practice5\obj\Debug\Practice5.exe
+D:\FreshmanProject\Practice5\Practice5\obj\Debug\Practice5.pdb
